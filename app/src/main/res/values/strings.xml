@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Submission Android Beginner</string>
+    <string name="judul">Judul</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="gambar_list">gambar list</string>
+    <string name="profile">profile</string>
+    <string name="share">share</string>
+    <string name="nama_dev">Fani Aghistiya Lestari</string>
+    <string name="email_dev">fani.aghistiya.lestr@gmail.com</string>
+
+    <string-array name="data_judul">
+        <item>Dear Me Beauty Skin Barrier Water Cream</item>
+        <item>Skintific 5X Ceramide Barrier Moisture Gel</item>
+        <item>Kleveru Ceramide Calm Face Oil</item>
+        <item>For Skin’s Sake Hyaluronic Acid Serum</item>
+        <item>PIXY Glowssentials Smooth &amp; Bright Peel-Off Mask</item>
+        <item>Somethinc 5% Niacinamide Barrier Serum</item>
+        <item>Avoskin Natural Sublime Facial Cleanser</item>
+        <item>Emina Skin Buddy Micellar Water</item>
+        <item>Dr. Jart+ Ceramidin Cream</item>
+        <item>Laneige Cream Skin Refiner</item>
+    </string-array>
+
+    <string-array name="detail_isi">
+        <item>Brand skincare lokal yang satu ini juga memiliki produk yang ditujukan untuk memperbaiki skin barrier bernama Dear me Beauty Skin Barrier Water Cream. Produk yang satu ini sudah terbukti mampu menghidrasi wajah dengan baik tanpa membuat kulit menjadi terlalu berminyak serta dapat memperbaiki skin barrier yang rusak. Uniknya, skincare untuk memperbaiki skin barrier yang satu ini menggunakan formula water based sehingga bisa memberikan kelembaban yang ekstra dan cocok digunakan untuk semua tipe kulit.</item>
+        <item>Skincare untuk memperbaiki skin barrier yang rusak selanjutnya adalah dari brand Skintific,terbukti ampuh dalam memperbaiki skin barrier yang mengalami kerusakan karena mengandung ceramide di dalamnya. Produk dari Skintific ini juga langsung menggunakan teknologi 5x ceramide sekaligus, yang artinya memiliki lima tipe ceramide dalam satu produk skincare. Di mana kegunaannya adalah untuk memperbaiki skin barrier, menenangkan sel kulit yang rusak, melembabkan kulit, sampai menghaluskan tekstur kulit.</item>
+        <item>Kleveru memang terkenal memiliki face oil dengan banyak varian yang bisa disesuaikan dengan kondisi dan permasalahan kulit yang dihadapi. Untuk tipe kulit berminyak yang cenderung berjerawat memang agak tricky ketika menggunakan face oil, sehingga tidak bisa sembarangan, bisa-bisa kesehatan skin barrier yang menjadi taruhannya. Kleveru Ceramide Calm Face Oil memiliki kandungan skincare untuk memperbaiki skin barrier dari bahan alami seperti jojoba oil dan rice bran oil yang berfungsi untuk menjaga skin barrier.</item>
+        <item>Dalam produk skincare dari FSS yang satu ini, menggunakan 100% hyaluronic acid murni yang asalnya dari tanaman sehingga tekstur serumnya juga sangat ringan dan mudah diserap oleh kulit. Selain memiliki hyaluronic acid sebagai kandungannya, For Skin’s Sake Hyaluronic Acid Serum ini juga mengandung ekstrak Centella Asiatica yang keduanya sama-sama bisa memperbaiki skin barrier yang rusak dan dapat membuat kulit wajah menjadi lebih kenyal, halus, dan lembut.</item>
+        <item>Selain menggunakan serum dan krim untuk memperbaiki skin barrier, bisa juga menggunakan masker, yaitu dengan PIXY Glowssentials Smooth &amp; Bright Pee-Off Mask yang bisa mengatasi kulit yang kusam dan menjaga kesehatan skin barrier karena mengandung Vitamin B3 atau niacinamide.</item>
+        <item>Skincare yang satu ini membuktikan kalau kualitasnya tidak kalah bagus dengan skincare asal luar negeri, ada brand skincare lokal yang memiliki skincare untuk memperbaiki skin barrier lainnya, yaitu Somethinc 5% Niacinamide Barrier Serum. Produk skincare yang satu ini mengandung bahan-bahan yang bisa membantu memperbaiki dan memperkuat skin barrier sekaligus mencerahkan kulit. Tidak hanya itu saja, serum yang satu ini juga bisa digunakan untuk melembabkan kulit wajah dan mengatasi jerawat yang bisa digunakan oleh semua jenis kulit termasuk kulit sensitif.</item>
+        <item>Brand skincare lokal lainnya yang menawarkan skincare untuk memperbaiki skin barrier yang rusak adalah Avoskin dalam bentuk facial wash. Unik banget, kan? Produk yang satu ini memiliki perpaduan niacinamide dan hyaluronic acid sebagai kandungannya sehingga sangat efektif untuk melembabkan kulit wajah. Sabun cuci muka yang satu ini juga memiliki pH yang rendah, jadi kulit tidak akan terasa kering setelah mencuci muka. Kemudian, ada juga kandungan marula oil yang berfungsi untuk memperbaiki skin barrier yang rusak.</item>
+        <item>Emina mengeluarkan produk pembersih make up yang juga memiliki kandungan skincare untuk memperbaiki skin barrier, yaitu Emina Skin Buddy Micellar Water. Pembersih make up berbasis air ini mengandung hyaluronic acid dan ekstrak calendula untuk membersihkan wajah dengan lembut tanpa membuat skin barrier terkikis dan dapat menghidrasi kulit dengan sangat baik.</item>
+        <item>Jika kerusakan skin barrier sudah sangat parah sampai mengakibatkan kulit menjadi sangat kering, kasar, dan sampai gatal, maka solusinya adalah dengan memperbaiki skin barrier lewat menggunakan Dr. Jart+ Ceramidin Cream. Meskipun harganya sangat pricey, tetapi sesuai dengan kualitas produknya dan kandungan bahan-bahan di dalamnya yang dapat memperbaiki serta memperkuat skin barrier.</item>
+        <item>Ada harga ada rupa merupakan kalimat yang cocok untuk Laneige Cream Skin Refiner. Ini karena selain menjadi skincare untuk memperbaiki skin barrier, produk skincare dengan harga yang cukup mahal ini juga cocok untuk dijadikan skincare travelling karena sangat multifungsi, yaitu dapat memperbaiki skin barrier tanpa harus menggunakan banyak skincare.</item>
+    </string-array>
+
+    <integer-array name="img">
+        <item>@drawable/pic_1</item>
+        <item>@drawable/pic_2</item>
+        <item>@drawable/pic_3</item>
+        <item>@drawable/pic_4</item>
+        <item>@drawable/pic_5</item>
+        <item>@drawable/pic_6</item>
+        <item>@drawable/pic_7</item>
+        <item>@drawable/pic_8</item>
+        <item>@drawable/pic_9</item>
+        <item>@drawable/pic_10</item>
+    </integer-array>
+
+    <integer-array name="img_review">
+        <item>@drawable/review1</item>
+        <item>@drawable/review2</item>
+        <item>@drawable/review4</item>
+        <item>@drawable/review3</item>
+        <item>@drawable/review2</item>
+        <item>@drawable/review4</item>
+        <item>@drawable/review1</item>
+        <item>@drawable/review3</item>
+        <item>@drawable/review2</item>
+        <item>@drawable/review1</item>
+    </integer-array>
+
+</resources>
